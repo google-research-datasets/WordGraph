@@ -1,0 +1,300 @@
+topic	relation	language	pos	lemma	orthography	features
+Q1045	Demonym adjective	Q33673	adjectival	ಸೋಮಾಲಿ	ಸೋಮಾಲಿ	
+Q37394	Demonym adjective	Q33673	adjectival	ಮೆಲನೇಶಿಯನ್	ಮೆಲನೇಶಿಯನ್	
+Q916	Demonym adjective	Q33673	adjectival	ಅಂಗೋಲನ್	ಅಂಗೋಲನ್	
+Q1555938	Demonym adjective	Q33673	adjectival	ಅಂಟಾರ್ಕ್ಟಿಕ್	ಅಂಟಾರ್ಕ್ಟಿಕ್	
+Q11708	Demonym adjective	Q33673	adjectival	ಆಗ್ನೇಯ ಏಷ್ಯನ್	ಆಗ್ನೇಯ ಏಷ್ಯನ್	
+Q377916	Demonym adjective	Q33673	adjectival	ಇಬೆರೋ-ಅಮೆರಿಕನ್	ಇಬೆರೋ-ಅಮೆರಿಕನ್	
+Q17252	Demonym adjective	Q33673	adjectival	ಟಿಬೆಟಿಯನ್	ಟಿಬೆಟಿಯನ್	
+Q7204	Demonym adjective	Q33673	adjectival	ಮಿಡಲ್ ಈಸ್ಟರ್ನ್	ಮಿಡಲ್ ಈಸ್ಟರ್ನ್	
+Q664609	Demonym adjective	Q33673	adjectival	ಕೆರಿಬಿಯನ್	ಕೆರಿಬಿಯನ್	
+Q27407	Demonym adjective	Q33673	adjectival	ಪೂರ್ವ ಆಫ್ರಿಕನ್	ಪೂರ್ವ ಆಫ್ರಿಕನ್	
+Q974	Demonym adjective	Q33673	adjectival	ಕಾಂಗೋಲೀಸ್	ಕಾಂಗೋಲೀಸ್	
+Q2017699	Demonym adjective	Q33673	adjectival	ಉತ್ತರ ಅಮೆರಿಕನ್	ಉತ್ತರ ಅಮೆರಿಕನ್	
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುವನ್ನು	Q146078,Q146786,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುವನ್ನು	Q110786,Q146078,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುಗಳಿಗೆ	Q145599,Q146786,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುವಿಗೆ	Q110786,Q145599,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುಗಳ	Q146233,Q146786,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುವಿನ	Q110786,Q146233,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುಗಳಿಂದ	Q146786,Q192997,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುವಿನಿಂದ	Q110786,Q192997,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುಗಳಲ್ಲಿ	Q146786,Q202142,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುವಿನಲ್ಲಿ	Q110786,Q202142,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುಗಳು	Q131105,Q146786,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	Q110786,Q131105,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುಗಳೇ	Q146786,Q185077,Q1775461
+Q58825429	Human denoting sense	Q33673	nominal	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟು	ಒಲಿಂಪಿಕ್ ಕ್ರೀಡಾಪಟುವೇ	Q110786,Q185077,Q1775461
+Q889	Demonym adjective	Q33673	adjectival	ಅಫ್ಘಾನಿಸ್ತಾನಿ	ಅಫ್ಘಾನಿಸ್ತಾನಿ	
+Q874	Demonym adjective	Q33673	adjectival	ತುರ್ಕಮನ್	ತುರ್ಕಮನ್	
+Q986	Demonym adjective	Q33673	adjectival	ಎರಿಟ್ರಿಯನ್	ಎರಿಟ್ರಿಯನ್	
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳನ್ನು	Q146078,Q146786,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯನ್ನು	Q110786,Q146078,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳನ್ನು	Q146078,Q146786,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯನ್ನು	Q110786,Q146078,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳಿಗೆ	Q145599,Q146786,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗೆ	Q110786,Q145599,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳಿಗೆ	Q145599,Q146786,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗೆ	Q110786,Q145599,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳ	Q146233,Q146786,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯ	Q110786,Q146233,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳ	Q146233,Q146786,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯ	Q110786,Q146233,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳಿಂದ	Q146786,Q1775415,Q192997
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯಿಂದ	Q110786,Q1775415,Q192997
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳಿಂದ	Q146786,Q192997,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯಿಂದ	Q110786,Q192997,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳಲ್ಲಿ	Q146786,Q1775415,Q202142
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯಲ್ಲಿ	Q110786,Q1775415,Q202142
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳಲ್ಲಿ	Q146786,Q202142,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯಲ್ಲಿ	Q110786,Q202142,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳು	Q131105,Q146786,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	Q110786,Q131105,Q1775415
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳು	Q131105,Q146786,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	Q110786,Q131105,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳೇ	Q146786,Q1775415,Q185077
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯೇ	Q110786,Q1775415,Q185077
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳೇ	Q146786,Q185077,Q499327
+Q1773363	Human denoting sense	Q33673	nominal	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯು	ಚುನಾವಣಾ ಅಧಿಕಾರಿಯೇ	Q110786,Q185077,Q499327
+Q1246	Demonym adjective	Q33673	adjectival	ಕೊಸೊವನ್	ಕೊಸೊವನ್	
+Q265	Demonym adjective	Q33673	adjectival	ಉಜ್ಬೇಕಿಸ್ತಾನಿ	ಉಜ್ಬೇಕಿಸ್ತಾನಿ	
+Q35942	Demonym adjective	Q33673	adjectival	ಪಾಲಿನೇಷ್ಯನ್	ಪಾಲಿನೇಷ್ಯನ್	
+Q4412	Demonym adjective	Q33673	adjectival	ಪಶ್ಚಿಮ ಆಫ್ರಿಕನ್	ಪಶ್ಚಿಮ ಆಫ್ರಿಕನ್	
+Q27479	Demonym adjective	Q33673	adjectival	ಉತ್ತರ ಯುರೋಪಿಯನ್	ಉತ್ತರ ಯುರೋಪಿಯನ್	
+Q712	Demonym adjective	Q33673	adjectival	ಫಿಜಿಯನ್	ಫಿಜಿಯನ್	
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕರುಗಳನ್ನು	Q146078,Q146786,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕನನ್ನು	Q110786,Q146078,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕರುಗಳಿಗೆ	Q145599,Q146786,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕನಿಗೆ	Q110786,Q145599,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕರುಗಳ	Q146233,Q146786,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕನ	Q110786,Q146233,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕರುಗಳಿಂದ	Q146786,Q192997,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕನಿಂದ	Q110786,Q192997,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕರಲ್ಲಿ	Q146786,Q202142,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕನಲ್ಲಿ	Q110786,Q202142,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕರುಗಳು	Q131105,Q146786,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	Q110786,Q131105,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕರೇ	Q146786,Q185077,Q1775461
+Q2462658	Human denoting sense	Q33673	nominal	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕ	ಕಾರ್ಯನಿರ್ವಾಹಕ ವ್ಯವಸ್ಥಾಪಕನೇ	Q110786,Q185077,Q1775461
+Q132959	Demonym adjective	Q33673	adjectival	ಸಬ್ ಸಹಾರನ್ ಆಫ್ರಿಕನ್	ಸಬ್ ಸಹಾರನ್ ಆಫ್ರಿಕನ್	
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರನ್ನು	Q146078,Q146786,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕಿಯನ್ನು	Q110786,Q146078,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರನ್ನು	Q146078,Q146786,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನನ್ನು	Q110786,Q146078,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರಿಗೆ	Q145599,Q146786,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕಿಗೆ	Q110786,Q145599,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರಿಗೆ	Q145599,Q146786,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನಿಗೆ	Q110786,Q145599,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರ	Q146233,Q146786,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕಿಯ	Q110786,Q146233,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರ	Q146233,Q146786,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನ	Q110786,Q146233,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರಿಂದ	Q146786,Q1775415,Q192997
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕಿಯಿಂದ	Q110786,Q1775415,Q192997
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರಿಂದ	Q146786,Q192997,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನಿಂದ	Q110786,Q192997,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರಲ್ಲಿ	Q146786,Q1775415,Q202142
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕಿಯಲ್ಲಿ	Q110786,Q1775415,Q202142
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರು	Q131105,Q146786,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕಿಯು	Q110786,Q131105,Q1775415
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರು	Q131105,Q146786,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	Q110786,Q131105,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರೇ	Q146786,Q1775415,Q185077
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕಿಯೇ	Q110786,Q1775415,Q185077
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕರೇ	Q146786,Q185077,Q499327
+Q5027838	Human denoting sense	Q33673	nominal	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನು	ಪ್ರಚಾರ ನಿರ್ವಾಹಕನೇ	Q110786,Q185077,Q499327
+Q794	Demonym adjective	Q33673	adjectival	ಇರಾನಿ	ಇರಾನಿ	
+Q27468	Demonym adjective	Q33673	adjectival	ಪೂರ್ವ ಯುರೋಪಿಯನ್	ಪೂರ್ವ ಯುರೋಪಿಯನ್	
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರರನ್ನು	Q146078,Q146786,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರನನ್ನು	Q110786,Q146078,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರರಿಗೆ	Q145599,Q146786,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರನಿಗೆ	Q110786,Q145599,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರರ	Q146233,Q146786,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರನ	Q110786,Q146233,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರರಿಂದ	Q146786,Q192997,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರನಿಂದ	Q110786,Q192997,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರರು	Q131105,Q146786,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	Q110786,Q131105,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರರೇ	Q146786,Q185077,Q499327
+Q19204627	Human denoting sense	Q33673	nominal	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರ	ಅಮೆರಿಕ ಫುಟ್‌ಬಾಲ್‌ ಆಟಗಾರನೇ	Q110786,Q185077,Q499327
+Q1044	Demonym adjective	Q33673	adjectival	ಸಿಯೆರಾ ಲಿಯೋನಿಯನ್	ಸಿಯೆರಾ ಲಿಯೋನಿಯನ್	
+Q12585	Demonym adjective	Q33673	adjectival	ಲ್ಯಾಟಿನ್ ಅಮೆರಿಕನ್	ಲ್ಯಾಟಿನ್ ಅಮೆರಿಕನ್	
+Q27275	Demonym adjective	Q33673	adjectival	ಮಧ್ಯ ಏಷ್ಯನ್	ಮಧ್ಯ ಏಷ್ಯನ್	
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಗಳನ್ನು	Q146078,Q146786,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಯನ್ನು	Q110786,Q146078,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಗಳಿಗೆ	Q145599,Q146786,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಗೆ	Q110786,Q145599,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಗಳ	Q146233,Q146786,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಯ	Q110786,Q146233,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಗಳಿಂದ	Q146786,Q192997,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಯಿಂದ	Q110786,Q192997,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಯರಲ್ಲಿ	Q146786,Q202142,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಯಲ್ಲಿ	Q110786,Q202142,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಗಳು	Q131105,Q146786,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	Q110786,Q131105,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಗಳೇ	Q146786,Q185077,Q1775415
+Q191808	Human denoting sense	Q33673	nominal	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿ	ಕ್ರೈಸ್ತ ಸನ್ಯಾಸಿನಿಯೇ	Q110786,Q185077,Q1775415
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ರನ್ನು	Q146078,Q146786,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ನನ್ನು	Q110786,Q146078,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ರಿಗೆ	Q145599,Q146786,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ನಿಗೆ	Q110786,Q145599,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ರ	Q146233,Q146786,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ನ	Q110786,Q146233,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ರಿಂದ	Q146786,Q192997,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ನಿಂದ	Q110786,Q192997,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ರುಗಳು	Q131105,Q146786,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್	Q110786,Q131105,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ರೇ	Q146786,Q185077,Q499327
+Q316498	Human denoting sense	Q33673	nominal	ಕೆಡೆಟ್	ಕೆಡೆಟ್ನೇ	Q110786,Q185077,Q499327
+Q227	Demonym adjective	Q33673	adjectival	ಅಜರ್ಬೈಜಾನಿ	ಅಜರ್ಬೈಜಾನಿ	
+Q27496	Demonym adjective	Q33673	adjectival	ಪಶ್ಚಿಮ ಯುರೋಪಿಯನ್	ಪಶ್ಚಿಮ ಯುರೋಪಿಯನ್	
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರರನ್ನು	Q146078,Q146786,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರನನ್ನು	Q110786,Q146078,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರರಿಗೆ	Q145599,Q146786,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರನಿಗೆ	Q110786,Q145599,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರರ	Q146233,Q146786,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರನ	Q110786,Q146233,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರರಿಂದ	Q146786,Q192997,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರನಿಂದ	Q110786,Q192997,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರರು	Q131105,Q146786,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	Q110786,Q131105,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರರೇ	Q146786,Q185077,Q499327
+Q11774891	Human denoting sense	Q33673	nominal	ಐಸ್ ಹಾಕಿ ಆಟಗಾರ	ಐಸ್ ಹಾಕಿ ಆಟಗಾರನೇ	Q110786,Q185077,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ರನ್ನು	Q146078,Q146786,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ನನ್ನು	Q110786,Q146078,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ರಿಗೆ	Q145599,Q146786,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ನಿಗೆ	Q110786,Q145599,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ರ	Q146233,Q146786,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ನ	Q110786,Q146233,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ರಿಂದ	Q146786,Q192997,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ನಿಂದ	Q110786,Q192997,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ರುಗಳು	Q131105,Q146786,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್	Q110786,Q131105,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ರೇ	Q146786,Q185077,Q499327
+Q673633	Human denoting sense	Q33673	nominal	ಕಾಂಪ್ಟ್ರೋಲರ್	ಕಾಂಪ್ಟ್ರೋಲರ್ನೇ	Q110786,Q185077,Q499327
+Q27433	Demonym adjective	Q33673	adjectival	ಮಧ್ಯ ಆಫ್ರಿಕನ್	ಮಧ್ಯ ಆಫ್ರಿಕನ್	
+Q796	Demonym adjective	Q33673	adjectival	ಇರಾಕಿ	ಇರಾಕಿ	
+Q13703	Demonym adjective	Q33673	adjectival	ಮೆಸೊಅಮೆರಿಕನ್	ಮೆಸೊಅಮೆರಿಕನ್	
+Q1507	Demonym adjective	Q33673	adjectival	ಪಟಗೋನಿಯನ್	ಪಟಗೋನಿಯನ್	
+Q717	Demonym adjective	Q33673	adjectival	ವೆನೆಜುವೆಲನ್	ವೆನೆಜುವೆಲನ್	
+Q27381	Demonym adjective	Q33673	adjectival	ಉತ್ತರ ಆಫ್ರಿಕನ್	ಉತ್ತರ ಆಫ್ರಿಕನ್	
+Q1020	Demonym adjective	Q33673	adjectival	ಮಲಾವಿಯನ್	ಮಲಾವಿಯನ್	
+Q28227	Demonym adjective	Q33673	adjectival	ಮಗ್ರೆಬಿಸ್	ಮಗ್ರೆಬಿಸ್	
+Q81483	Demonym adjective	Q33673	adjectival	ಲೆವಂಟೈನ್	ಲೆವಂಟೈನ್	
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರರನ್ನು	Q146078,Q146786,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರನನ್ನು	Q110786,Q146078,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರರಿಗೆ	Q145599,Q146786,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರನಿಗೆ	Q110786,Q145599,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರರ	Q146233,Q146786,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರನ	Q110786,Q146233,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರರಿಂದ	Q146786,Q192997,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರನಿಂದ	Q110786,Q192997,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರರು	Q131105,Q146786,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	Q110786,Q131105,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರರೇ	Q146786,Q185077,Q499327
+Q12299841	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಆಟಗಾರ	ಕ್ರಿಕೆಟ್ ಆಟಗಾರನೇ	Q110786,Q185077,Q499327
+Q27231	Demonym adjective	Q33673	adjectival	ಪೂರ್ವ ಏಷ್ಯನ್	ಪೂರ್ವ ಏಷ್ಯನ್	
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ರನ್ನು	Q146078,Q146786,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ನನ್ನು	Q110786,Q146078,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ರಿಗೆ	Q145599,Q146786,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ನಿಗೆ	Q110786,Q145599,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ರ	Q146233,Q146786,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ನ	Q110786,Q146233,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ರಿಂದ	Q146786,Q192997,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ನಿಂದ	Q110786,Q192997,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ರುಗಳು	Q131105,Q146786,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್	Q110786,Q131105,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ರೇ	Q146786,Q185077,Q499327
+Q848466	Human denoting sense	Q33673	nominal	ಕೊರಿಯರ್	ಕೊರಿಯರ್ನೇ	Q110786,Q185077,Q499327
+Q734	Demonym adjective	Q33673	adjectival	ಗಯಾನೀಸ್	ಗಯಾನೀಸ್	
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರುಗಳನ್ನು	Q146078,Q146786,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮನನ್ನು	Q110786,Q146078,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರುಗಳಿಗೆ	Q145599,Q146786,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮನಿಗೆ	Q110786,Q145599,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರುಗಳ	Q146233,Q146786,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮನ	Q110786,Q146233,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರುಗಳಿಂದ	Q146786,Q192997,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮನಿಂದ	Q110786,Q192997,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರುಗಳಲ್ಲಿ	Q146786,Q202142,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮನಲ್ಲಿ	Q110786,Q202142,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರುಗಳು	Q131105,Q146786,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮ	Q110786,Q131105,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರುಗಳೇ	Q146786,Q185077,Q1775461
+Q6498826	Human denoting sense	Q33673	nominal	ಹುತಾತ್ಮ	ಹುತಾತ್ಮರೇ	Q110786,Q185077,Q1775461
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯರನ್ನು	Q146078,Q146786,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯನ್ನು	Q110786,Q146078,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯರಿಗೆ	Q145599,Q146786,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಗೆ	Q110786,Q145599,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯರ	Q146233,Q146786,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯ	Q110786,Q146233,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯರಿಂದ	Q146786,Q192997,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯಿಂದ	Q110786,Q192997,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯರಲ್ಲಿ	Q146786,Q202142,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯಲ್ಲಿ	Q110786,Q202142,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯರು	Q131105,Q146786,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್	Q110786,Q131105,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯರಾ	Q146786,Q185077,Q1775415
+Q1646408	Human denoting sense	Q33673	nominal	ಅಬ್ಬೆಸ್	ಅಬ್ಬೆಸ್ಯೇ	Q110786,Q185077,Q1775415
+Q27293	Demonym adjective	Q33673	adjectival	ಪಶ್ಚಿಮ ಏಷ್ಯನ್	ಪಶ್ಚಿಮ ಏಷ್ಯನ್	
+Q27394	Demonym adjective	Q33673	adjectival	ದಕ್ಷಿಣ ಆಫ್ರಿಕನ್	ದಕ್ಷಿಣ ಆಫ್ರಿಕನ್	
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಗಳನ್ನು	Q146078,Q146786,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಯನ್ನು	Q110786,Q146078,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಗಳಿಗೆ	Q145599,Q146786,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಗೆ	Q110786,Q145599,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಗಳ	Q146233,Q146786,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಯ	Q110786,Q146233,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಗಳಿಂದ	Q146786,Q192997,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಯಿಂದ	Q110786,Q192997,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಯರಲ್ಲಿ	Q146786,Q202142,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಯಲ್ಲಿ	Q110786,Q202142,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಗಳು	Q131105,Q146786,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿ	Q110786,Q131105,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಗಳೇ	Q146786,Q185077,Q1775461
+Q82594	Human denoting sense	Q33673	nominal	ಗಣಕ ವಿಜ್ಞಾನಿ	ಗಣಕ ವಿಜ್ಞಾನಿಯೇ	Q110786,Q185077,Q1775461
+Q5456	Demonym adjective	Q33673	adjectival	ಆಂಡೆಯನ್	ಆಂಡೆಯನ್	
+Q66065	Demonym adjective	Q33673	adjectival	ಸಹೇಲಿಯನ್	ಸಹೇಲಿಯನ್	
+Q21195	Demonym adjective	Q33673	adjectival	ಸ್ಕ್ಯಾಂಡಿನೇವಿಯನ್	ಸ್ಕ್ಯಾಂಡಿನೇವಿಯನ್	
+Q27449	Demonym adjective	Q33673	adjectival	ದಕ್ಷಿಣ ಯುರೋಪಿಯನ್	ದಕ್ಷಿಣ ಯುರೋಪಿಯನ್	
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರನ್ನು	Q146078,Q146786,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞನನ್ನು	Q110786,Q146078,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರಿಗೆ	Q145599,Q146786,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞನಿಗೆ	Q110786,Q145599,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರ	Q146233,Q146786,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞನ	Q110786,Q146233,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರಿಂದ	Q146786,Q192997,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞನಿಂದ	Q110786,Q192997,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರಲ್ಲಿ	Q146786,Q202142,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞನಲ್ಲಿ	Q110786,Q202142,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರು	Q131105,Q146786,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	Q110786,Q131105,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞರೇ	Q146786,Q185077,Q499327
+Q11063	Human denoting sense	Q33673	nominal	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞ	ಖಗೋಳಶಾಸ್ತ್ರಜ್ಞನೇ	Q110786,Q185077,Q499327
+Q771405	Demonym adjective	Q33673	adjectival	ದಕ್ಷಿಣ ಏಷ್ಯನ್	ದಕ್ಷಿಣ ಏಷ್ಯನ್	
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ರನ್ನು	Q146078,Q146786,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ನನ್ನು	Q110786,Q146078,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ಗಳಿಗೆ	Q145599,Q146786,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ಗೆ	Q110786,Q145599,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ಗಳ	Q146233,Q146786,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ನ	Q110786,Q146233,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ಗಳಿಂದ	Q146786,Q192997,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ನಿಂದ	Q110786,Q192997,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ರಲ್ಲಿ	Q146786,Q202142,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ನಲ್ಲಿ	Q110786,Q202142,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್ಗಳು	Q131105,Q146786,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	Q110786,Q131105,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	Q146786,Q185077,Q1775461
+Q21479668	Human denoting sense	Q33673	nominal	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	ಕ್ರಿಕೆಟ್ ಬೌಲರ್	Q110786,Q185077,Q1775461
